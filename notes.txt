@@ -49,3 +49,9 @@ Each cell should have an event listener that sets the background color of the ce
 
 // creates and returns a <span> element
 document.createElement('span');
+
+5. Creating document fragment 
+     const myDocFrag = document.createDocumentFragment();
+
+6. Use performance.now() in start time and finish time to measure performance.
+
